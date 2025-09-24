@@ -1,1 +1,0 @@
-"# ML-MAGIC-Gamma-Telescope" 
